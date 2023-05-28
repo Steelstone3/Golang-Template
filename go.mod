@@ -1,4 +1,4 @@
-module github.com/Steelstone3/Star-Trek-Explorers
+module github.com/Steelstone3/Golang-Template
 
 go 1.20
 
