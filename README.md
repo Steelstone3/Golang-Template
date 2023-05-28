@@ -1,10 +1,10 @@
-# Star Trek Explorers
+# Golang Template
 
-Golang Star Trek game loosely based on the C++ original
+Golang Template
 
 ## Running Star Trek Explorers
 
-> cd ~/Star-Trek-Explorers
+> cd ~/Golang-Template
 >
 > go build
 >
@@ -12,7 +12,7 @@ Golang Star Trek game loosely based on the C++ original
 
 ## Tests
 
-> cd ~/Star-Trek-Explorers
+> cd ~/Golang-Template
 >
 > go test ./...
 
